@@ -16,7 +16,7 @@ Describe with your own words what the following command is doing or answer the q
 
 1. `git stash --hunk`
 
-1. `git stash drop stash@{1}` - Drop the 1th stash on the stash stack.
+1. `git stash drop stash@{1}` - Drop the 1th stash on the stash stack..
 
 1. `git fetch origin`
 
