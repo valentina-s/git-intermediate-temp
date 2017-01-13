@@ -26,7 +26,7 @@ Describe with your own words what the following command is doing or answer the q
 
 1. `git checkout -b feature_branch`
 
-1. `git merge feature_branch`
+1. `git merge feature_branch` - This will merge any changes from from 'feature_branch' to 'master'. There will be merge conflicts if there are conflicting lines or changes.
 
 1. `git branch -d useless_branch`
 
