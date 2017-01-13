@@ -6,7 +6,7 @@ Describe with your own words what the following command is doing or answer the q
 
 1. `git diff file.txt`
 
-1. `git diff --staged`
+4. `git diff --staged` - Look at differences in staged (git add-ed?) files since the last commit
 
 1. `git diff HEAD~2 HEAD`
 
