@@ -12,7 +12,7 @@ Describe with your own words what the following command is doing or answer the q
 
 1. `git push origin master`
 
-1. `git pull origin master`
+1. `git pull origin master` Pulls the repo from my origin repo to my local (master branch)
 
 1. `git stash --hunk`
 
@@ -22,7 +22,7 @@ Describe with your own words what the following command is doing or answer the q
 
 1. `git checkout 56789`
 
-1. `git branch`
+1. `git branch` - Typing Git branch in your terminal lists all the branches in the current git repository
 
 1. `git checkout -b feature_branch`
 
