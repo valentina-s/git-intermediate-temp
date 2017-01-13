@@ -30,7 +30,7 @@ Describe with your own words what the following command is doing or answer the q
 
 1. `git branch -d useless_branch`
 
-1. `git log --oneline`
+1. `git log --oneline` shows a condensed(one line) version of all the commits you've made.
 
 1. `git rm file.txt`
 
