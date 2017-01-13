@@ -8,7 +8,7 @@ Describe with your own words what the following command is doing or answer the q
 
 4. `git diff --staged` - Look at differences in staged (git add-ed?) files since the last commit
 
-1. `git diff HEAD~2 HEAD`
+1. `git diff HEAD~2 HEAD`  Visualize differences between repo at current commit and two commits previously
 
 1. `git push origin master`
 
