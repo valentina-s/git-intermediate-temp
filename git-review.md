@@ -22,7 +22,7 @@ Describe with your own words what the following command is doing or answer the q
 
 1. `git checkout 56789`
 
-1. `git branch`
+1. `git branch` - Typing Git branch in your terminal lists all the branches in the current git repository
 
 1. `git checkout -b feature_branch`
 
