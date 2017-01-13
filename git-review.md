@@ -38,7 +38,7 @@ Describe with your own words what the following command is doing or answer the q
 
 1. What is a "remote"?
 
-1. What is "origin"?
+1. What is "origin"? Origin is the default name for a remote repository.
 
 1. What is "master"?
 
