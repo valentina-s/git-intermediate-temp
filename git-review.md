@@ -12,7 +12,7 @@ Describe with your own words what the following command is doing or answer the q
 
 1. `git push origin master`
 
-1. `git pull origin master`
+1. `git pull origin master` Pulls the repo from my origin repo to my local (master branch)
 
 1. `git stash --hunk`
 
@@ -22,11 +22,11 @@ Describe with your own words what the following command is doing or answer the q
 
 1. `git checkout 56789`
 
-1. `git branch`
+1. `git branch` - Typing Git branch in your terminal lists all the branches in the current git repository
 
 1. `git checkout -b feature_branch`
 
-1. `git merge feature_branch`
+1. `git merge feature_branch` - This will merge any changes from from 'feature_branch' to 'master'. There will be merge conflicts if there are conflicting lines or changes.
 
 1. `git branch -d useless_branch`
 
@@ -38,7 +38,7 @@ Describe with your own words what the following command is doing or answer the q
 
 1. What is a "remote"?
 
-1. What is "origin"?
+1. What is "origin"? Origin is the default name for a remote repository.
 
 1. What is "master"?
 
