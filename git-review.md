@@ -24,7 +24,7 @@ Describe with your own words what the following command is doing or answer the q
 
 1. `git branch`
 
-1. `git checkout -b feature_branch`
+1. `git checkout -b feature_branch` Create a new branch `feature_branch` and switch to it
 
 1. `git merge feature_branch`
 
